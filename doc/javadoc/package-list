@@ -1,0 +1,12 @@
+com.mentorgen.tools.profile
+com.mentorgen.tools.profile.instrument
+com.mentorgen.tools.profile.instrument.clfilter
+com.mentorgen.tools.profile.output
+com.mentorgen.tools.profile.runtime
+com.mentorgen.tools.util.profile
+com.tivo.jipviewer
+net.sourceforge.jiprof.instrument.clfilter
+net.sourceforge.jiprof.timeline
+org.objectweb.asm.jip
+org.objectweb.asm.jip.attrs
+org.objectweb.asm.jip.commons
